@@ -97,6 +97,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>cicdsetup-image</finalName>
 	</build>
 
 </project>
